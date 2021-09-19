@@ -1,0 +1,97 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins';
+    text-align: center;
+    background: rgb(8, 1, 34);
+}
+.wrapper2{
+    width: 90%;
+    margin: 0 auto;
+}
+header{
+    height: 100px;
+    width: 100%;
+    background: rgb(8, 1, 34);
+    opacity: .9;
+    position: sticky;
+    top: 0;
+
+}
+.logo2{
+    width: 70%;
+    float: left;
+    text-align: left;
+    line-height: 100px;
+}
+.logo2 a{
+    text-decoration: none;
+    font-size: 65px;
+    font-family: 'pacifice';
+    color: #fff;
+    letter-spacing: 4px;
+    font-weight: bold;
+    
+}
+nav{
+    float: right;
+    line-height: 100px;
+}
+nav p{
+    text-decoration: none;
+    letter-spacing: 4px;
+    font-size: 40px;
+    margin: 0 1px;
+    padding: 5px 5px;
+    color: #fff;
+}
+ section.banner-area{
+    background:#fff;
+    background-size: cover;
+    background-position: center;
+    object-fit: fill;
+    
+    padding: 1em;
+    
+    height: 500px;
+    
+    position: sticky;
+    margin: auto;
+    max-width: 1500px;
+    width: 89%; 
+    
+} 
+.banner-area p{
+    font-size: 30px;
+    color:black;
+    left: 8%;
+    right: 8%;
+    top: 25%;
+    position: absolute;
+}
+.social{
+    text-align: left;
+    padding-bottom: 20px;
+    color: #fff;
+    margin-left: 50px;
+    margin-top: 30px;
+   
+  
+}
+.social a{
+    font-size:20px ;
+    color: inherit;
+    width: 10px;
+    height: 40px;
+    line-height: 38px;
+    text-align: center;
+    margin: 0 8px;
+    opacity: o.75;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'pacifice';
+    color: #fff;
+    letter-spacing: 4px;
+    font-weight: bold;
+
+}
